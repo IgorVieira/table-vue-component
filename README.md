@@ -2,7 +2,6 @@
 
 > A project with Firebase, Vuejs and NOW
 
-> https://britecore-bcfohxfkzx.now.sh/
 
 ## Build Setup
 
